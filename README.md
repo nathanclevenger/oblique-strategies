@@ -100,4 +100,3 @@
 - Work at a different speed
 - Would anyone want it?
 - Your mistake was a hidden intention
-- 
